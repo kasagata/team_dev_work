@@ -18,7 +18,7 @@
         * マイページ作成/編集
 * スタイルの作成(dev_style_) @岡本さん
     * step1
-        * Bootstapテーマの反映 
+        * Bootstapテーマの反映 ⭕️
 
 # ブランチの命名規則
 * 例：dev_blog_1
