@@ -1,24 +1,21 @@
-# README
+# タスク
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* 全体
+    *  テーブル設計
+    *  ルーティング
 
-Things you may want to cover:
+* ブログ機能作成(dev_blog)
+    * ブログ投稿ページ
+    * ブログ編集ページ
+    * ブログ一覧
+    * ブログ詳細ページ
 
-* Ruby version
+* ユーザー機能作成(dev_user)
+    * ログイン機能
+    * マイページ作成/編集
 
-* System dependencies
+* スタイルの作成(dev_style)
+    * Bootstapテーマの反映 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Gitの命名規則
+* 例：dev_blog_step1
